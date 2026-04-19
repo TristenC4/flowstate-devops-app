@@ -95,3 +95,6 @@ Goals
 	•	Deploy to AWS infrastructure
 	•	Add observability (health + metrics endpoints)
 	•	Simulate failures and document recovery
+
+
+Built as part of a 3-week DevOps interview preparation plan.
