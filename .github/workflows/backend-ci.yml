@@ -27,7 +27,7 @@ jobs:
         run: npm install
 
       - name: Verify server file exists
-  	run: test -f server.js
-      
+        run: test -f server.js
+
       - name: Build Docker image
-        run: docker build -t flowstate-backend:test .s
+        run: docker build -t flowstate-backend:test .
